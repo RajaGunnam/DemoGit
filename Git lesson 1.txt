@@ -1,0 +1,5 @@
+1. Download count is not increasing
+2. Share count is not increasing
+3. We are not able to perform twitter tasks(on clicking task action buttons for twitter tasks, screen is loading)
+4. If we double tap on task, APK is crashing
+5. we are not able to select ALL and news tag on home screen and after login default all tag is not selected
